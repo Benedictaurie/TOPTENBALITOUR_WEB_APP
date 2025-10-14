@@ -3,7 +3,7 @@ import FrontendLayout from "../../Layouts/Frontend/FrontendLayout";
 
 export default function Rental() {
   const paketList = [
-    { id: 1, title: "Hiace", price: "Rp. 220.000", img: "/assets/hiace.jpg" },
+    { id: 1, title: "Hiace", price: "Rp. 220.000", img: "/assets/hiace.png" },
     { id: 2, title: "Yamaha Mio Z Suzuki", price: "Rp. 120.000", img: "/assets/motor.jpg" },
     { id: 3, title: "N/A", price: "Rp. 340.000", img: "/assets/tour3.jpg" },
     { id: 4, title: "N/A", price: "Rp. 410.000", img: "/assets/tour4.jpg" },
@@ -16,7 +16,7 @@ export default function Rental() {
       {/* Header Section */}
       <div className="relative">
         <img
-          src="/assets/Pura Ulun Danu Bratan Temple.jpg"
+          src="/assets/hiace.png"
           alt="Rental Mobil/Motor"
           className="w-full h-[400px] object-cover brightness-75"
         />

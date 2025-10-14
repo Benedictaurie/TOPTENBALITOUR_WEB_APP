@@ -6,7 +6,7 @@ export default function Activity() {
     { id: 1, title: "ATV", price: "Rp. 410.000", img: "/assets/atv.jpg" },
     { id: 2, title: "Swing", price: "Rp. 410.000", img: "/assets/swing.jpg" },
     { id: 3, title: "Water Sports", price: "Rp. 410.000", img: "/assets/watersport.jpg" },
-    { id: 4, title: "Arum Jeram", price: "Rp. 410.000", img: "/assets/rafting.jpg" },
+    { id: 4, title: "Arung Jeram", price: "Rp. 410.000", img: "/assets/arung-jeram.jpg" },
     { id: 5, title: "Helicopter", price: "Rp. 410.000", img: "/assets/heli.jpg" },
     { id: 6, title: "Surfing", price: "Rp. 410.000", img: "/assets/surfing.jpg" },
   ];
@@ -16,7 +16,7 @@ export default function Activity() {
       {/* Header Section */}
       <div className="relative">
         <img
-          src="/assets/Pura Ulun Danu Bratan Temple.jpg"
+          src="/assets/arung-jeram.jpg"
           alt="Activity"
           className="w-full h-[400px] object-cover brightness-75"
         />

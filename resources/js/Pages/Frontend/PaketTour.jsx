@@ -16,7 +16,7 @@ export default function PaketTour() {
       {/* Header Section */}
       <div className="relative">
         <img
-          src="/assets/Pura Ulun Danu Bratan Temple.jpg"
+          src="/assets/Kuta Beach.jpg"
           alt="Paket Tour"
           className="w-full h-[400px] object-cover brightness-75"
         />
